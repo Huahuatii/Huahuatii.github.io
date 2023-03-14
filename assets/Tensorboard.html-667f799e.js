@@ -1,0 +1,1 @@
+import{_ as r,W as o,X as a,Y as e,Z as t}from"./framework-179f767b.js";const s={},n=e("h1",{id:"tensorboard",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#tensorboard","aria-hidden":"true"},"#"),t(" Tensorboard")],-1),c=[n];function d(_,i){return o(),a("div",null,c)}const l=r(s,[["render",d],["__file","Tensorboard.html.vue"]]);export{l as default};
